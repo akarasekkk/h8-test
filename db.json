@@ -31,7 +31,7 @@
             "id": "1",
             "name_en": "Marketing / Public Relations"
         },
-      "interest": ["Art","Beauty","Design","Education"],
+      "interest": ['Art','Beauty','Design','Education'],
         "isActive": "INACTIVE"
     }
 }
