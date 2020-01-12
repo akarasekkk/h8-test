@@ -1,36 +1,31 @@
 {
-    "id": 1,
-    "firstName": "sysadmin",
-    "lastName": "sysadmin",
-    "email": "sysadmin@sysadmin.com",
-    "mobileNo": "0000000000",
-    "username": null,
-    
-    "userDetailDTO": {
-        "id": 2,
-        "user": {
-            "mobile_no": "0000000000",
-            "last_name": "sysadmin",
-            "first_name": "sysadmin",
-            "email": "sysadmin@sysadmin.com",
-            "username": "sysadmin"
-        },
-        "jobType": {
-            "name_th": "",
-            "id": "1",
-            "name_en": "Direct Marketing"
-        },
-        "jobLevel": {
-            "name_th": "",
-            "id": "1",
-            "name_en": "Chief Executive Officer"
-        },
-        "jobCategory": {
-            "name_th": "งานการตลาด งาน PR",
-            "id": "1",
-            "name_en": "Marketing / Public Relations"
-        },
-      
-        "isActive": "INACTIVE"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
