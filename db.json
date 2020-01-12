@@ -5,8 +5,7 @@
     "email": "sysadmin@sysadmin.com",
     "mobileNo": "0000000000",
     "username": null,
-    "role":"Content Creative",
-    "company":"H8 Creative",
+    
     "userDetailDTO": {
         "id": 2,
         "user": {
