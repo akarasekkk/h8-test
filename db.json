@@ -1,31 +1,27 @@
 {
-  "posts": [
+  "interest": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Art"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Design"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Beauty"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "title": "Education"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "mobile_no": "0000000000",
+            "last_name": "sysadmin",
+            "first_name": "sysadmin",
+            "email": "sysadmin@sysadmin.com",
+            "username": "sysadmin"
   }
 }
