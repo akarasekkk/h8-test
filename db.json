@@ -22,6 +22,23 @@
             "last_name": "sysadmin",
             "first_name": "sysadmin",
             "email": "sysadmin@sysadmin.com",
-            "username": "sysadmin"
+            "username": "sysadmin",
+    "role":"Content Creative",
+    "company":"H8 Creative",
+    "jobType": {
+            "name_th": "",
+            "id": "1",
+            "name_en": "Direct Marketing"
+        },
+        "jobLevel": {
+            "name_th": "",
+            "id": "1",
+            "name_en": "Chief Executive Officer"
+        },
+        "jobCategory": {
+            "name_th": "งานการตลาด งาน PR",
+            "id": "1",
+            "name_en": "Marketing / Public Relations"
+        }
   }
 }
